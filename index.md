@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Team iT Rajshahi University Rajshshi Bangladesh 6205
+# Team iT Biuld a Better Tomorrow, Rajshahi University Rajshshi Bangladesh 6205
 ## Header 2
 ### Header 3
 
